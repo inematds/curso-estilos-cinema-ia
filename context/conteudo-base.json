@@ -1,0 +1,150 @@
+{
+  "slug": "estilos-cinema-ia",
+  "title": "Estilos e Cinema: Seedance + Higgsfield v6.2",
+  "modules": [
+    {
+      "title": "Referência, estilo e história",
+      "promise": "Organize um painel com funções claras, defina duas linguagens visuais e escreva uma sequência curta.",
+      "topics": [
+        {
+          "title": "Referência é uma decisão visível",
+          "concept": "Referência é um material que orienta uma escolha. No caso Vagalume, uma lanterna amarela aparece numa floresta ao anoitecer. Separe imagem do objeto, ambiente, iluminação e enquadramento. Se todas mostram coisas diferentes sem função, o gerador recebe um conjunto ambíguo.",
+          "why": "Lara quer comparar duas linguagens para o mesmo pequeno anúncio. Roberto precisa reconhecer a lanterna e o ambiente de sua pousada. Eles montam um painel de até nove imagens, mas enviam apenas as necessárias ao teste. A quantidade é um exercício de organização, não requisito universal.",
+          "practice": "Selecione materiais próprios ou autorizados e escreva uma função para cada um.",
+          "caution": "Uma referência de luz não deve substituir silenciosamente a aparência do produto."
+        },
+        {
+          "title": "Limite da ferramenta não é meta criativa",
+          "concept": "A documentação original de Seedance 2.0 descreve texto, imagem, vídeo e áudio como entradas. A linha 2.5 amplia limites e controles. A plataforma onde você usa o modelo pode oferecer combinações diferentes. Confira versão, formato, custo e quantidade aceita na conta.",
+          "why": "Nove imagens no painel não obrigam a enviar nove arquivos. Uma imagem clara pode resolver mais que várias repetidas. Guarde a versão organizada para comparar as decisões, e registre quais referências foram realmente vinculadas na geração.",
+          "practice": "Faça uma segunda seleção com apenas objeto, ambiente e estilo, justificando cada arquivo.",
+          "caution": "Não trate limites de uma versão antiga como regra de outra versão ou plataforma."
+        },
+        {
+          "title": "Cinco linguagens, decisões diferentes",
+          "concept": "Animação 2D pode usar contorno e cores chapadas. Arte em pixels constrói formas com blocos visíveis. Uma cena 3D pode explorar volume e materiais. Baixa contagem de polígonos lembra jogos antigos, como os da era PS1. Voxel usa volumes cúbicos, conhecidos em jogos como Minecraft. Na maquete de papel, recortes formam camadas e pequenas sombras mostram a distância entre elas.",
+          "why": "Esses nomes não obrigam a copiar personagens ou cenários de um jogo. Descreva a linguagem desejada com elementos próprios. Para Vagalume, vamos comparar animação 2D de cores chapadas com uma maquete de papel em camadas. A lanterna e a história continuam iguais.",
+          "practice": "Escreva o que deve ser visível em forma, textura, paleta e iluminação.",
+          "caution": "Pixel é uma unidade da imagem; voxel é um volume. Um bloco quadrado na tela não prova que a cena é tridimensional."
+        },
+        {
+          "title": "A imagem inicial precisa combinar com a nota",
+          "concept": "Prepare uma versão do objeto para cada estilo. Você pode desenhar ou usar um editor de imagem por instrução, como um modo compatível do Nano Banana. Envie sua referência e peça mudar a linguagem visual, preservando forma e partes importantes. Revise antes de animar.",
+          "why": "A mudança de estilo pode alterar o produto. Compare alça, corpo e base da lanterna. Se uma característica desaparecer, corrija a imagem de partida. Uma nota de estilo não restaura um detalhe ausente por garantia. Guarde a referência original junto das duas versões.",
+          "practice": "Continuação necessária: produza e revise as duas imagens de partida antes das aulas de geração.",
+          "caution": "As imagens deste curso foram criadas no Codex; não são demonstrações de Nano Banana ou Seedance."
+        },
+        {
+          "title": "Cada plano precisa acrescentar informação",
+          "concept": "Storyboard é um roteiro visual em quadros. Um plano mostra a lanterna no ambiente; outro apresenta a ação; o terceiro revela a luz acesa. Anote ação, câmera e ponto de chegada em cada quadro. Some as durações para caber no total aceito pelo modo.",
+          "why": "Para reduzir dificuldade, use uma ação simples e uma câmera discreta. Uma mão apertando um botão pode exigir mais correções que uma transição de luz planejada. Escolha conscientemente o que precisa aparecer e confira se sua referência mostra essa parte do objeto.",
+          "practice": "Desenhe três quadros ou escreva três cartões, com uma ação por plano.",
+          "caution": "Não descreva uma ação que dependa de um detalhe inexistente na imagem inicial."
+        },
+        {
+          "title": "Um texto curto ajuda a conferir conflitos",
+          "concept": "Organize contexto, referências, planos, estilo e áudio. Use até mil e quinhentos caracteres como limite editorial deste exercício. Esse número não é uma restrição universal de Seedance. Se precisar reduzir, retire adjetivos repetidos antes de apagar ações essenciais.",
+          "why": "Escreva as transições: corte simples, aproximação contínua ou passagem por uma forma semelhante. Não peça câmera parada e grande deslocamento ao mesmo tempo. A versão A e a B usarão a mesma sequência; somente a nota de estilo e a imagem correspondente mudam.",
+          "practice": "Leia o roteiro em voz alta e confira se cada plano termina numa situação observável.",
+          "caution": "Definir o corte no texto não garante que o modelo o execute; a revisão precisa observar a saída."
+        }
+      ]
+    },
+    {
+      "title": "Duas versões, uma comparação",
+      "promise": "Execute testes de estilo com registro e traduza decisões de câmera em critérios visuais.",
+      "topics": [
+        {
+          "title": "Vincule referências reais ao pedido",
+          "concept": "Abra Seedance na plataforma disponível e confirme a versão escolhida. Adicione a imagem de partida do estilo A e as referências necessárias. Identifique no pedido qual arquivo orienta objeto, cenário ou linguagem. Use os vínculos que a interface fornece, sem inventar nomes de arquivos que não foram anexados.",
+          "why": "O painel de referências da aula 1 serve para escolher, não para obrigar um envio completo. No primeiro teste, evite materiais redundantes. Confira a imagem de partida e o roteiro de três planos antes de confirmar a geração.",
+          "practice": "Confira a documentação oficial da plataforma quando um campo não corresponder ao guia.",
+          "caution": "Se o modo escolhido não aceita as referências necessárias, registre a limitação e mantenha o teste pendente."
+        },
+        {
+          "title": "Revise a história antes de pedir mais definição",
+          "concept": "Configure duração, proporção e áudio conforme o roteiro. Escolha uma resolução de teste disponível e confira o custo total. Gere uma saída, salve e assista inteira. Observe ordem dos planos, luz acendendo e integridade do objeto. Só depois avalie detalhes de textura.",
+          "why": "Uma imagem inicial já acesa pode dificultar um roteiro que começa com a luz apagada. Ajuste esse estado antes de repetir. Se o modelo ignorar um corte, simplifique a sequência ou gere os planos separadamente, registrando a mudança de método.",
+          "practice": "Continuação: corrija uma variável e preserve as duas versões para comparar.",
+          "caution": "Montar três clipes depois é um caminho válido, mas não equivale a uma geração única com vários planos."
+        },
+        {
+          "title": "Mude a linguagem e preserve o experimento",
+          "concept": "Use a imagem B revisada e sua nota de estilo. Mantenha roteiro, duração, proporção e intenção de câmera. Repita na mesma versão do modelo, quando disponível. Registre qualquer mudança de configuração que não conseguiu evitar.",
+          "why": "A maquete de papel deve contar a mesma história que a animação 2D. Se mudar o objeto ou o ambiente, você terá mais de uma variável. Essa comparação ainda pode ser útil, mas precisa reconhecer a diferença. Não atribua tudo ao estilo.",
+          "practice": "Prepare uma tabela de condições mantidas e condições alteradas antes de gerar B.",
+          "caution": "A variação do gerador impede tratar uma única comparação como regra universal de desempenho."
+        },
+        {
+          "title": "Compare legibilidade e intenção",
+          "concept": "Assista A e B sem som primeiro. Você reconhece a lanterna e entende a mudança de luz? Depois avalie textura, paleta e continuidade. Por fim, ouça o áudio. Escolha a versão que comunica melhor seu objetivo . Anote defeitos concretos ou registre que não observou falhas nos critérios revisados.",
+          "why": "Não existe um estilo vencedor para todos os usos. Papel pode combinar com uma proposta artesanal; 2D pode destacar contorno e contraste. Esses são caminhos de direção de arte, não garantias. A escolha depende do resultado que você produziu e do público pretendido.",
+          "practice": "Continuação: repita um teste com outra imagem para verificar se sua preferência se mantém.",
+          "caution": "Sem os dois vídeos, você pode comparar notas e imagens, mas a avaliação de movimento permanece pendente."
+        },
+        {
+          "title": "Enquadramento orienta a atenção",
+          "concept": "Plano aberto mostra relação entre objeto e ambiente. Plano fechado destaca um detalhe. Distância focal descreve uma característica da lente que influencia o ângulo de visão. No mesmo formato de sensor, uma focal menor costuma mostrar um campo mais amplo. A distância da câmera também altera a perspectiva.",
+          "why": "Vinte e quatro milímetros pode sugerir um campo amplo em certas configurações, mas não é uma receita universal de cinema. Em um gerador, o controle funciona como orientação visual; avalie a imagem produzida. Não trate o nome selecionado como medição física de uma filmagem real.",
+          "practice": "Escreva se o plano deve mostrar ambiente, ação ou detalhe, antes de escolher a configuração.",
+          "caution": "Uma aproximação da câmera não é idêntica a um zoom, que muda a ampliação sem deslocar a posição."
+        },
+        {
+          "title": "Movimento precisa servir ao acontecimento",
+          "concept": "Para a lanterna acender, câmera parada pode deixar a mudança clara. Uma aproximação lenta pode destacar a janela iluminada. Se o objetivo é mostrar o lugar, uma abertura de quadro pode revelar a floresta. Escolha um movimento e um ponto de chegada.",
+          "why": "No Cinema Studio, os controles de câmera, lente e luz dependem da versão e do modo. Registre as opções realmente usadas. Comece com uma configuração simples para aprender como ela afeta o resultado. Acrescente complexidade apenas quando resolve uma necessidade da história.",
+          "practice": "Continuação: faça dois testes curtos, alterando apenas uma decisão de câmera.",
+          "caution": "Não combine vários movimentos incompatíveis apenas para parecer cinematográfico."
+        }
+      ]
+    },
+    {
+      "title": "Cena cinematográfica e entrega",
+      "promise": "Gere uma cena com transição, escolha alternativas por critério e revise o conjunto final.",
+      "topics": [
+        {
+          "title": "Configure a cena conforme sua versão",
+          "concept": "Cinema Studio é uma ferramenta da Higgsfield. Entre na sua conta Higgsfield e localize Cinema Studio. Confira a versão, o modo disponível e os recursos antes de seguir. Se faltar acesso, registre o motivo e deixe a geração pendente. Abra Cinema Studio e anote a versão selecionada. Acrescente referências de objeto e ambiente, ou elementos salvos quando disponíveis. Use a ficha de câmera da aula 6 e descreva a cena. Nas versões com painel de direção, confira também luz, paleta e ritmo.",
+          "why": "O guia atual descreve versões com controles e limites diferentes. Não presuma que nove planos ou uma resolução específica estarão em todas elas. Para o primeiro exercício, planeje dois ou três planos curtos. Confira duração, formato e custo antes de gerar.",
+          "practice": "Faça uma ficha das configurações reais para repetir a tentativa depois.",
+          "caution": "Uma proposta escrita por assistente de direção ainda precisa ser revisada antes de confirmar a geração."
+        },
+        {
+          "title": "Escolha uma passagem que tenha sentido",
+          "concept": "Corte simples troca diretamente de plano. Corte por semelhança conecta formas, cores ou gestos parecidos. Uma luz redonda pode levar ao sol, por exemplo. Esse segundo exemplo pode usar outro objeto; não exige transformar fisicamente a lanterna no astro.",
+          "why": "Escreva o que encerra o primeiro plano e o que abre o seguinte. Assista à passagem em movimento para conferir ritmo e continuidade. Se a transição gerada não funcionar, produza os planos separadamente e faça o corte no editor. Registre que a montagem foi feita depois.",
+          "practice": "Continuação: compare o corte simples com a passagem por semelhança e escolha o que ajuda sua mensagem.",
+          "caution": "Imagens lado a lado sugerem uma transição, mas não demonstram o tempo nem a qualidade do corte."
+        },
+        {
+          "title": "Transforme uma falha em critério de escolha",
+          "concept": "Se a ação deformou o objeto, o critério é integridade durante o movimento. Se a fala falhou, avalie palavras e sincronia. Se o estilo mudou, confira referências visuais. Escolha uma pergunta por comparação e mantenha roteiro e materiais tão próximos quanto possível.",
+          "why": "A proposta antiga citava Kling 2.5, Hailuo 2 e Veo 3.1. Os catálogos evoluíram: há outras versões Kling, e a documentação atual da MiniMax apresenta H3. Não use uma receita antiga como prova de superioridade atual. Registre versão e modo realmente testados.",
+          "practice": "Monte uma linha por alternativa com entrada, recurso, custo e critério que pretende observar.",
+          "caution": "Uma demonstração promocional não comprova que seu caso terá o mesmo resultado."
+        },
+        {
+          "title": "A comparação precisa respeitar recursos diferentes",
+          "concept": "Veo no Flow oferece recursos diferentes conforme o modo. Kling, Seedance e alternativas MiniMax também variam em entradas e controles. Consulte o recurso específico, não apenas o nome da família. Se uma alternativa não aceita seu material, a comparação mudou de condições.",
+          "why": "Comece com um trecho pequeno e um teto de gasto. Guarde o tempo de espera, as configurações e o arquivo. Avalie o mesmo critério nos dois resultados. Uma única tentativa é uma observação limitada, não um ranking definitivo das ferramentas.",
+          "practice": "Continuação opcional: execute o teste comparativo com uma mudança de ferramenta e condições documentadas.",
+          "caution": "Se só consultou o catálogo, registre pesquisa de compatibilidade; não afirme que comparou qualidade de vídeos."
+        },
+        {
+          "title": "Três entregas precisam existir",
+          "concept": "Reúna vídeo A, vídeo B e a cena do Cinema Studio. Confirme que A e B contam a mesma história e registre diferenças adicionais. Na terceira peça, confira câmera e transição. Anote arquivo, versão, custo e decisão de revisão para cada entrega.",
+          "why": "Se uma peça ainda está apenas no roteiro, marque produção pendente. A prática desta aula organiza a auditoria; ela não gera automaticamente os vídeos que faltam. Reserve sessões para executar, corrigir e montar o necessário. Preserve as referências junto dos resultados.",
+          "practice": "Continuação necessária: finalize qualquer vídeo ausente antes de apresentar o projeto como concluído.",
+          "caution": "Três miniaturas não substituem três vídeos assistidos e revisados."
+        },
+        {
+          "title": "Acabamento vem depois da aprovação de conteúdo",
+          "concept": "Aumentar resolução pode melhorar a apresentação, mas não corrige necessariamente forma, movimento ou cortes. Se usar ampliação, também chamada upscale, compare original e nova versão. Observe bordas, texturas e detalhes inventados. Guarde o original.",
+          "why": "Exporte no formato adequado ao uso e abra o arquivo fora do editor. Assista no celular com e sem som. Confira começo, fim, duração e legibilidade. Se divulgar estudos fictícios, apresente-os como estudos. Não atribua a uma ferramenta uma imagem ou edição que foi feita em outra.",
+          "practice": "Faça uma ficha curta com objetivo, método, arquivos e limitações para acompanhar a entrega.",
+          "caution": "Não confunda resolução escolhida, ampliação posterior e qualidade visual observada."
+        }
+      ]
+    }
+  ]
+}
