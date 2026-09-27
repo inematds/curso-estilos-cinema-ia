@@ -1,5 +1,3 @@
 # Estado atual
 
-9 aulas completas. Auditoria 9/9 nota 10; motor 26/26. Leitores simulados Lara e Roberto: todas >=9 após ajustes. Capturas em ~/projetos/output/curso-estilos-cinema-ia.
-
-Imagens Codex; vídeos não foram gerados para os exemplos. Guias oficiais consultados em 25/09/2026.
+Conteúdo 1.1.0, formato OSWork v6.2. Edições completas em PT/EN/ES. Tradução com GPT-6 Luna nativo Codex; sem API externa. Catálogos em i18n/, montagem offline em scripts/. Evidências em validacao-i18n.md.
