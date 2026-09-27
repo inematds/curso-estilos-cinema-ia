@@ -454,7 +454,9 @@
         "tempo": 15,
         "pmin": 10,
         "jarg": [],
-        "jargDef": [],
+        "jargDef": [
+          "output"
+        ],
         "perfil": "",
         "leg": {
           "papel": {
